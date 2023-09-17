@@ -1,0 +1,58 @@
+{
+  "graphicCards": [
+    {
+      "id": 1,
+      "name": "GTX 780Ti",
+      "price": 100,
+      "img": "http://localhost:3000/gtx_780ti.png"
+    },
+    {
+      "id": 2,
+      "name": "GTX 1070Ti",
+      "price": 200,
+      "img": "http://localhost:3000/gtx_1070ti.png"
+    },
+    {
+      "id": 3,
+      "name": "GTX 1080",
+      "price": 300,
+      "img": "http://localhost:3000/gtx_1080.png"
+    },
+    {
+      "id": 4,
+      "name": "GTX 1080Ti",
+      "price": 400,
+      "img": "http://localhost:3000/gtx_1080ti.png"
+    },
+    {
+      "id": 5,
+      "name": "RTX 2080",
+      "price": 500,
+      "img": "http://localhost:3000/rtx_2080.png"
+    },
+    {
+      "id": 6,
+      "name": "RTX 2080Ti",
+      "price": 600,
+      "img": "http://localhost:3000/rtx_2080ti.png"
+    },
+    {
+      "id": 7,
+      "name": "RTX 2070 SUPER",
+      "price": 700,
+      "img": "http://localhost:3000/rtx_2070_super.webp"
+    },
+    {
+      "id": 8,
+      "name": "RTX 3080",
+      "price": 800,
+      "img": "http://localhost:3000/rtx_3080.png"
+    },
+    {
+      "id": 9,
+      "name": "RTX 3090",
+      "price": 900,
+      "img": "http://localhost:3000/rtx_3090.png"
+    }
+  ]
+}

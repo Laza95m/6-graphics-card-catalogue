@@ -1,0 +1,47 @@
+.item {
+  border: 1px gray solid;
+  max-width: 200px;
+  width: 100%;
+}
+
+.img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  max-height: 150px;
+  height: 100vh;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 10px;
+}
+
+/* .name {
+}
+
+.price {
+} */
+
+.btn {
+  padding: 6px 40px;
+  border: none;
+  border-radius: 5px;
+  transition: 0.3s;
+  margin-top: 10px;
+  cursor: pointer;
+  background: #ffffff;
+  text-decoration: none;
+  color: #000000;
+}
+
+.btn:hover {
+  background: steelblue;
+}
+
+.btn:active {
+  background: #ffffff;
+}
